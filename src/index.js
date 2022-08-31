@@ -1,8 +1,12 @@
 function getData(){
     return fetch('http://localhost:3000/menuItems')
    .then(resp => resp.json()) 
-   .then((data) => populateMenu(data.menuItems))
-   
+   .then((data) => populateMenu(data.menuItems)) 
+}
+function getFirstObject(){
+    return fetch ('http://localhost:3000/menuItems')
+    .then(resp => resp.json())
+    .then((data) => renderMenuObj(data.menuItems[0]))
 }
 function populateMenu(menuObj) {
     let menu = document.querySelector('#menuItems')
