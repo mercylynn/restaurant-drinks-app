@@ -164,3 +164,22 @@ textarea {
     background-color: aqua;
     
 }
+/*star rating */
+.star {
+    font-size: 3rem;
+    color: #ff9800;
+    background-color: unset;
+    border: none;
+}
+.star:hover {
+    cursor: pointer;
+}
+.star_rating{
+   position: relative;
+   left: 25%;
+   
+}
+.starheading{
+   font-weight: bolder;
+   font-size: medium;
+}
