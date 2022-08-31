@@ -13,3 +13,20 @@ function populateMenu(menuObj) {
         li.addEventListener('click', () => renderMenuObj(item))
     })
 }
+function renderMenuObj(menuItems){
+    document.querySelector('#name').textContent = menuItems.name
+    document.querySelector('#rating').textContent = menuItems.rating
+    document.querySelector('image').src = menuItems.image
+    document.querySelector('#price').textContent = menuItems.price
+    document.querySelector('#description').textContent = menuItems.description
+
+    let reviews = document.querySelector('#reviewList')
+    reviews.innerHTML = ''
+    menuItems.reviews.map((review) =>{
+        let li= document.createElement('li')
+        li.textContent = review
+        li.id = 'review'
+        review.appendChild(li)
+        li.addEventListener('click', () => li.remove())
+    })
+}
