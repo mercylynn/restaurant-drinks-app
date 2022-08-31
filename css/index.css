@@ -135,3 +135,32 @@ nav ul li:hover {
     padding: 5px;
     cursor: pointer;
 }
+/* form  */
+form {
+    width: 50%;
+    margin: 0 auto 50px auto;
+    margin-bottom: 30px;
+}
+
+textarea {
+    display: block;
+    width: 100%;
+    height: 100px;
+    border: 1px solid gray;
+    padding: 5px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+.btn:hover{
+    color: #222;
+    background-color: aqua;
+    
+}
