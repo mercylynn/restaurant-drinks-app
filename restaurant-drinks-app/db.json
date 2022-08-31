@@ -1,0 +1,161 @@
+{
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "CAPPUCINO",
+        "rating": 4.2,
+        "image": "https://www.cafedeli.co.ke/image/bf21.png",
+        "price": 270,
+        "description":"Coffe drink:1 rounded tablespoon finely ground coffee,1/4 cup cold milk,1 pinch cocoa powder or ground cinnamon ",
+        "reviews": [
+          "I love their Cappuccino",
+          "Hot chocolate in a nice style!",
+          "Cappucinno is awesome especially the one with 100% chocolate."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "TROPICAL JUICE",
+        "rating": 4.3,
+        "image": "https://www.cafedeli.co.ke/image/dr15.png",
+        "price": 330,
+        "description": "1 mango, 1/2 papaya, 250g pineapple, 1/2 cucuber, 1 lime",
+        "reviews": [
+          "I like this product it tastes great",
+          "Refreshing tropical juice",
+          "Tasty for a hot day i highly recommend it"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "MANGO JUICE",
+        "rating": 4.6,
+        "image": "https://www.cafedeli.co.ke/image/dr18.png",
+        "price": 310,
+        "description": "Chicken tikka, cheese, green pepper, pizza sauce.",
+        "reviews": [
+            "I like this product it tastes great",
+            "Refreshing mango juice",
+            "Tasty for a hot day i highly recommend it"
+         
+        ]
+      },
+      {
+        "id": 4,
+        "name": "FRUIT PUNCH",
+        "rating": 4.1,
+        "image": "https://www.cafedeli.co.ke/image/dr16.png",
+        "price": 380,
+        "description": "orange squash,watermelon juice,pomegranate juice",
+        "reviews": [
+            "I like this product it tastes great",
+            "Refreshing fruit punch juice",
+            "Tasty for a hot day i highly recommend it"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "SODAS",
+        "rating": 4.7,
+        "image": "https://www.cafedeli.co.ke/image/dr00.png",
+        "price": 170,
+        "description": "Pineaple,Orange,Sprite,Blackcurrent",
+        "reviews": [
+          "I like this product it tastes great",
+            "Refreshing fruit punch juice",
+            "Tasty for a hot day i highly recommend it"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "ICED MOCHA",
+        "rating": 4.7,
+        "image": "https://www.cafedeli.co.ke/image/dr21.png",
+        "price": 380,
+        "description": "milk,cocoa coffe, whiiping creamTantalizing grilled coriander chicken.",
+        "reviews": [
+          "Very affordable iced mocha and can be made to your liking.",
+          "I like this product it tastes great"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "LIME & GINGER",
+        "rating": 4.4,
+        "image": "https://www.cafedeli.co.ke/image/bf22.png",
+        "price": 1200,
+        "description": "Lemon,ginger,chilled water,chilled plain soda",
+        "reviews": [
+            "I like this product it tastes great",
+            "Refreshing lime juice",
+            "Tasty for a hot day i highly recommend it"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "MINERAL WATER 500ML",
+        "rating": 4.8,
+        "image": "https://www.cafedeli.co.ke/image/dr01.png",
+        "price": 170,
+        "description": "mineral water",
+        "reviews": [
+          "Refreshing mineral water",
+          "Affordable price."
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Milk shakes",
+        "rating": 4.0,
+        "image": "https://png.pngitem.com/pimgs/s/126-1267420_milkshake-png-transparent-file-milkshake-png-png-download.png",
+        "price": 250,
+        "description": "Vanilla, strawberry and chocolate flavors",
+        "reviews": ["Favorite drink for a hot day.",
+             "Vanilla anyday anytime"]
+      },
+      {
+        "id": 10,
+        "name": "FLAVOURED LATTE",
+        "rating": 4.9,
+        "image": "https://www.cafedeli.co.ke/image/bf23.png",
+        "price": 380,
+        "description": "Milk,Flavord syrup any flavor,brewed espresso",
+        "reviews": [
+            "I like this product it tastes great",
+            "Refreshing lime juice",
+            "Tasty for a hot day i highly recommend it"
+          
+        ]
+      },
+      {
+        "id": 10,
+        "name": "ICED HERBAL TEA",
+        "rating": 4.9,
+        "image": "https://www.cafedeli.co.ke/image/dr20.png",
+        "price": 250,
+        "description": "Lemon juice,mint leaves,tea ,ice cubesIt's drink o'clock",
+        "reviews": [
+            "I like this product it tastes great",
+            "Refreshing lime juice",
+            "Tasty for a hot day i highly recommend it"
+        
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Cocktails",
+        "rating": 4.9,
+        "image": "https://toppng.com/uploads/preview/cocktails-11545685663imusonh6no.png",
+        "price": 350,
+        "description": "Vodka,Grapefruit Liqueur,Lemon Juice,Strawberry Syrup",
+        "reviews": [
+          "I like this product it tastes great",
+          "Refreshing lime juice",
+          "Tasty for a hot day i highly recommend it"
+        ]
+      }
+      
+      
+
+    ]
+  }
