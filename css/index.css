@@ -27,3 +27,32 @@ hr {
     right: 1%;
     bottom: 20px;
 }
+/* menu and menu items  */
+.menu {
+    position: fixed;
+    float: left;
+    height: auto;
+    width: 20%;
+    margin-left: 2%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.menu h2 {
+    text-align: center;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+.menu>nav>ul>li {
+    list-style: none;
+    padding: 7px;
+    cursor: pointer;
+}
+
+nav ul li:hover {
+    background-color: #F19F21;
+    transition: all 0.3s ease;
+    color: white;
+}
