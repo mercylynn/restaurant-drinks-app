@@ -43,20 +43,7 @@ document.querySelector('#orderBtn').addEventListener('click',handleOrder)
         document.querySelector('#reviewForm').reset()
         li.addEventListener('click', li.remove())  
     }
-    const allStars = document.querySelectorAll('.star')
-    const currentRating = document.querySelector('.currentstarrating')
-    allStars.forEach((star,i)=> {
-        star.onclick = function (){
-            let currentStar = i + 1;
-             currentRating.innerHTML = `${currentStar} of 5`
-            allStars.forEach((star, j) => {
-                if (currentStar >= j+1){
-                    star.innerHTML = '&#9733';
-                }else{
-                    star.innerHTML = '&#9734';
-                }
-    
-            })
-    
-        }
+    document.addEventListener('DOMContentLoaded',function(){
+        getData();
+        getFirstObject();
     })
