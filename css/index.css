@@ -106,3 +106,32 @@ nav ul li:hover {
     cursor: pointer;
   
 }
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#description {
+    margin-left: 25%;
+}
+
+/* .reviews  */
+.reviews {
+    position: relative;
+    left: 25%;
+    width: 40%;
+}
+
+.reviews h3 {
+    font-size: medium;
+}
+
+.reviews ul li {
+    list-style: none;
+    background-color: #f5ae45;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    width: auto;
+    padding: 5px;
+    cursor: pointer;
+}
