@@ -30,3 +30,7 @@ function renderMenuObj(menuItems){
         li.addEventListener('click', () => li.remove())
     })
 }
+document.querySelector('#orderBtn').addEventListener('click',handleOrder)
+    function handleOrder(){
+    document.querySelector('#description').textContent = 'Order aded to Cart'
+    }
