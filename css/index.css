@@ -56,3 +56,29 @@ nav ul li:hover {
     transition: all 0.3s ease;
     color: white;
 }
+/* main container  */
+.display-area {
+    position: relative;
+    left: 25%;
+    width: 70%;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.display-area h2 {
+    font-family: 'cursive', sans-serif;
+    margin-top: 5%;
+    margin-left: 45%;
+}
+
+#display img {
+    height: 225px;
+    width: 225px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
