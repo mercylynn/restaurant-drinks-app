@@ -34,3 +34,12 @@ document.querySelector('#orderBtn').addEventListener('click',handleOrder)
     function handleOrder(){
     document.querySelector('#description').textContent = 'Order aded to Cart'
     }
+    document.querySelector('#reviewForm').addEventListener('submit', handleSubmit)
+    function handleSubmit(e){
+        e.preventDefault()
+        let li = document.createElement('li')
+        li.textContent = e.target.review.value
+        document.querySelector('#reviewList').appendChild(li)
+        document.querySelector('#reviewForm').reset()
+        li.addEventListener('click', li.remove())  
+    }
