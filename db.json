@@ -4,7 +4,7 @@
         "id": 1,
         "name": "CAPPUCINO",
         "rating": 4,
-        "image": "https://www.freeimages.com/photo/cappuccino-1554982",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cappuccino_at_Sightglass_Coffee.jpg/800px-Cappuccino_at_Sightglass_Coffee.jpg?20140816183604",
         "price": 270,
         "description":"Coffe drink: ground coffee,1/4 cup cold milk,1 pinch cocoa powder or ground cinnamon ",
         "reviews": [
@@ -17,7 +17,7 @@
         "id": 2,
         "name": "TROPICAL JUICE",
         "rating": 5,
-        "image": "https://www.cafedeli.co.ke/image/dr15.png",
+        "image": "https://www.tastythais.com/wp-content/uploads/2019/09/Fruit-Punch-Recipe-600-1red.jpg",
         "price": 330,
         "description": "1 mango, 1/2 papaya, 250g pineapple, 1/2 cucuber, 1 lime",
         "reviews": [
@@ -30,7 +30,7 @@
         "id": 3,
         "name": "MANGO JUICE",
         "rating": 4,
-        "image": "https://www.cafedeli.co.ke/image/dr18.png",
+        "image": "https://mocktail.net/wp-content/uploads/2021/06/Orange-Mango-Juice_3-747x1024.jpg",
         "price": 310,
         "description": "Chicken tikka, cheese, green pepper, pizza sauce.",
         "reviews": [
@@ -44,7 +44,7 @@
         "id": 4,
         "name": "FRUIT PUNCH",
         "rating": 5,
-        "image": "https://www.cafedeli.co.ke/image/dr16.png",
+        "image": "https://www.culinaryhill.com/wp-content/uploads/2022/03/Fruit-Punch-Culinary-Hill-LR-08.jpg",
         "price": 380,
         "description": "orange squash,watermelon juice,pomegranate juice",
         "reviews": [
@@ -57,7 +57,7 @@
         "id": 5,
         "name": "SODAS",
         "rating": 4.7,
-        "image": "https://www.cafedeli.co.ke/image/dr00.png",
+        "image": "https://www.caffeineinformer.com/wp-content/uploads/soft-drinks.jpg",
         "price": 170,
         "description": "Pineaple,Orange,Sprite,Blackcurrent",
         "reviews": [
@@ -70,7 +70,7 @@
         "id": 6,
         "name": "ICED MOCHA",
         "rating": 3,
-        "image": "https://www.cafedeli.co.ke/image/dr21.png",
+        "image": "https://i2.wp.com/bakingmischief.com/wp-content/uploads/2019/05/iced-mocha-picture-683x1024.jpg",
         "price": 380,
         "description": "milk,cocoa coffe, whiiping creamTantalizing grilled coriander chicken.",
         "reviews": [
@@ -82,7 +82,7 @@
         "id": 7,
         "name": "LIME & GINGER",
         "rating": 4,
-        "image": "https://www.cafedeli.co.ke/image/bf22.png",
+        "image": "https://ministryofcurry.com/wp-content/uploads/2016/05/untitled-2-2.jpg",
         "price": 1200,
         "description": "Lemon,ginger,chilled water,chilled plain soda",
         "reviews": [
@@ -95,7 +95,7 @@
         "id": 8,
         "name": "MINERAL WATER ",
         "rating": 5,
-        "image": "https://www.cafedeli.co.ke/image/dr01.png",
+        "image": "https://media.mydawa.com/Images/Products/a6683d8d-3102-4aeb-aff8-22ba83c6d117.PNG",
         "price": 170,
         "description": "mineral water",
         "reviews": [
@@ -117,7 +117,7 @@
         "id": 10,
         "name": "FLAVOURED LATTE",
         "rating": 5,
-        "image": "https://www.cafedeli.co.ke/image/bf23.png",
+        "image": "https://sipcoffeehouse.com/wp-content/uploads/2021/06/flavored-espresso-lattes.jpg",
         "price": 380,
         "description": "Milk,Flavord syrup any flavor,brewed espresso",
         "reviews": [
@@ -131,7 +131,7 @@
         "id": 10,
         "name": "ICED HERBAL TEA",
         "rating": 5,
-        "image": "https://www.cafedeli.co.ke/image/dr20.png",
+        "image": "https://fooddoodles.com/wp-content/uploads/2015/09/best-iced-tea-1-400x600.jpg",
         "price": 250,
         "description": "Lemon juice,mint leaves,tea ,ice cubesIt's drink o'clock",
         "reviews": [
