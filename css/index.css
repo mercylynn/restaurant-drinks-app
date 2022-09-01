@@ -52,7 +52,7 @@ hr {
 }
 
 nav ul li:hover {
-    background-color: #F19F21;
+    background-color: gray;
     transition: all 0.3s ease;
     color: white;
 }
@@ -84,7 +84,7 @@ nav ul li:hover {
 }
 .price {
     /*margin-left: 60%;*/
-    background-color: orange;
+    background-color: gray;
     width: 8%;
     color: white;
     padding: 7px;
@@ -96,10 +96,11 @@ nav ul li:hover {
     margin-left: 70%;
     position: relative;
     bottom: 50px;
+    color: #ff9800;
 }
 
 .orderBtn {
-    background-color: green;
+    background-color: blue;
     padding: 10px;
     border-radius: 20px;
     color: white;
@@ -128,7 +129,7 @@ nav ul li:hover {
 
 .reviews ul li {
     list-style: none;
-    background-color: #f5ae45;
+    background-color: gray;
     margin-left: 0px;
     margin-bottom: 10px;
     width: auto;
@@ -153,7 +154,7 @@ textarea {
 }
 
 .btn {
-    background-color: green;
+    background-color: blue;
     padding: 10px;
     border-radius: 10px;
     color: white;
@@ -182,4 +183,7 @@ textarea {
 .starheading{
    font-weight: bolder;
    font-size: medium;
+}
+#deletebtn{
+    margin-left: 10px;
 }
