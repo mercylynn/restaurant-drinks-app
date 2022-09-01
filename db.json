@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "CAPPUCINO",
-        "rating": 4.2,
+        "rating": 4,
         "image": "https://www.cafedeli.co.ke/image/bf21.png",
         "price": 270,
         "description":"Coffe drink:1 rounded tablespoon finely ground coffee,1/4 cup cold milk,1 pinch cocoa powder or ground cinnamon ",
@@ -16,7 +16,7 @@
       {
         "id": 2,
         "name": "TROPICAL JUICE",
-        "rating": 4.3,
+        "rating": 5,
         "image": "https://www.cafedeli.co.ke/image/dr15.png",
         "price": 330,
         "description": "1 mango, 1/2 papaya, 250g pineapple, 1/2 cucuber, 1 lime",
@@ -29,7 +29,7 @@
       {
         "id": 3,
         "name": "MANGO JUICE",
-        "rating": 4.6,
+        "rating": 4,
         "image": "https://www.cafedeli.co.ke/image/dr18.png",
         "price": 310,
         "description": "Chicken tikka, cheese, green pepper, pizza sauce.",
@@ -43,7 +43,7 @@
       {
         "id": 4,
         "name": "FRUIT PUNCH",
-        "rating": 4.1,
+        "rating": 5,
         "image": "https://www.cafedeli.co.ke/image/dr16.png",
         "price": 380,
         "description": "orange squash,watermelon juice,pomegranate juice",
@@ -69,7 +69,7 @@
       {
         "id": 6,
         "name": "ICED MOCHA",
-        "rating": 4.7,
+        "rating": 3,
         "image": "https://www.cafedeli.co.ke/image/dr21.png",
         "price": 380,
         "description": "milk,cocoa coffe, whiiping creamTantalizing grilled coriander chicken.",
@@ -81,7 +81,7 @@
       {
         "id": 7,
         "name": "LIME & GINGER",
-        "rating": 4.4,
+        "rating": 4,
         "image": "https://www.cafedeli.co.ke/image/bf22.png",
         "price": 1200,
         "description": "Lemon,ginger,chilled water,chilled plain soda",
@@ -94,7 +94,7 @@
       {
         "id": 8,
         "name": "MINERAL WATER 500ML",
-        "rating": 4.8,
+        "rating": 5,
         "image": "https://www.cafedeli.co.ke/image/dr01.png",
         "price": 170,
         "description": "mineral water",
@@ -106,7 +106,7 @@
       {
         "id": 9,
         "name": "Milk shakes",
-        "rating": 4.0,
+        "rating": 4,
         "image": "https://png.pngitem.com/pimgs/s/126-1267420_milkshake-png-transparent-file-milkshake-png-png-download.png",
         "price": 250,
         "description": "Vanilla, strawberry and chocolate flavors",
@@ -116,7 +116,7 @@
       {
         "id": 10,
         "name": "FLAVOURED LATTE",
-        "rating": 4.9,
+        "rating": 5,
         "image": "https://www.cafedeli.co.ke/image/bf23.png",
         "price": 380,
         "description": "Milk,Flavord syrup any flavor,brewed espresso",
@@ -130,7 +130,7 @@
       {
         "id": 10,
         "name": "ICED HERBAL TEA",
-        "rating": 4.9,
+        "rating": 5,
         "image": "https://www.cafedeli.co.ke/image/dr20.png",
         "price": 250,
         "description": "Lemon juice,mint leaves,tea ,ice cubesIt's drink o'clock",
@@ -144,7 +144,7 @@
       {
         "id": 11,
         "name": "Cocktails",
-        "rating": 4.9,
+        "rating": 4,
         "image": "https://toppng.com/uploads/preview/cocktails-11545685663imusonh6no.png",
         "price": 350,
         "description": "Vodka,Grapefruit Liqueur,Lemon Juice,Strawberry Syrup",
