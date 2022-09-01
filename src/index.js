@@ -31,11 +31,11 @@ function renderMenuObj(menuItems){
         li.textContent = review
         li.id = 'review'
         reviews.appendChild(li)
-        let btn = document.createElement('button')
-        btn.id = 'deletebtn'
-        btn.textContent = ' X '
-        li.append(btn)
-        btn.addEventListener('click', () => li.remove())
+        // let btn = document.createElement('button')
+        // btn.id = 'deletebtn'
+        // btn.textContent = ' X '
+        // li.append(btn)
+        // btn.addEventListener('click', () => li.remove())
        
     })
 }
@@ -53,7 +53,7 @@ document.querySelector('#orderBtn').addEventListener('click',handleOrder)
         document.querySelector('#reviewForm').reset()
         let btn = document.createElement('button')
         btn.id = 'deletebtn'
-        btn.textContent = ' X '
+        btn.textContent = '  X  '
         li.append(btn)
         btn.addEventListener('click', () => e.target.review.value.remove())
         li.addEventListener('click', () => li.remove())  
