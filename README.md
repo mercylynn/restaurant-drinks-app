@@ -1,7 +1,18 @@
+- [Restaurant Drinks App](#restaurant-drinks-app)
+- [Author](#author)
+- [Description](#description)
+- [Setup Requirements](#setup-requirements)
+- [Setup Installation](#setup-installation)
+- [Technologies Used](#technologies-used)
+- [Setup/Installation Requirements](#setupinstallation-requirements)
+- [License](#license)
 # Restaurant Drinks App
-This is a single page application designed to help customers navigate through the app and check the drinks available,prices,the rating and the review of the drinks.and also they can add a review,delete it and also rate the products.
+This is a single page application designed to help customers navigate through the app menu and check the drinks available,prices,the rating and the review of the drinks.and also they can add a review,delete it and also rate the products.
 # Author
  created By Mercy Kamene  
+
+ # Description
+ It is an application which uses HTML,CSS,Javasript and uses fetch API
 
 # Setup Requirements
 - Git
